@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://img.freepik.com/premium-vector/online-education-doodle-seamless-vector-illustration-elearning-pattern-blue-background_582123-6.jpg?w=2000);
+    background-size: contain;
+  }
+  
+  .container {
+    background-color: #300e8db4;
+    max-width: 400px;
+    height: 80vh;
+    margin: 20px 500px 0px 500px;
+    padding: 20px;
+    border: 3px solid #180909;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    background: #f85b5b;
+    border: 2px solid #180909;
+  }
+  
+  input[type="text"] {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    padding: 6px;
+    margin: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .btn{
+    margin-left: 90px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button:hover {
+    background-color: #b90707;
+  }
+
+  #taskList{
+    background-color: #4f29db;
+    color: yellow;
+    width: auto;
+  }
